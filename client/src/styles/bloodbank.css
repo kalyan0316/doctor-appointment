@@ -1,0 +1,18 @@
+.blood{
+    display: flex;
+    flex-wrap: wrap;
+}
+.blood1{
+    width: 30%;
+    margin: 5px;
+}
+.blood1h{
+    width: 30%;
+    background-color: aquamarine;
+    margin: 5px;
+    
+}
+.heading{
+    text-align: center;
+    color: red;
+}
